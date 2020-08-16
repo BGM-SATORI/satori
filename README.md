@@ -9,7 +9,7 @@ BGM！
 
 美术：@duke0083        （花名：柠茶）
 
-美术：                 （花名：Mira）
+美术：@VitaminMi       （花名：Mira）
 
 程序：@xiaogeformax    （花名：小葛）
 
