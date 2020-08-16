@@ -23,4 +23,10 @@ BGM！
 ## 预览
 > 登录界面
 
-![image]()
+![image](https://github.com/BGM-SATORI/satori/blob/master/%E9%A2%84%E8%A7%88/1-%E8%BF%9B%E5%85%A5%E6%B8%B8%E6%88%8F%404x.png)
+
+>选择角色
+![image](https://github.com/BGM-SATORI/satori/blob/master/%E9%A2%84%E8%A7%88/2-%E9%80%89%E6%8B%A9%E8%A7%92%E8%89%B2%404x.png)
+
+>关卡展示
+![image](https://github.com/BGM-SATORI/satori/blob/master/%E9%A2%84%E8%A7%88/3-%20%E5%85%B3%E5%8D%A11%404x.png)
